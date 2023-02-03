@@ -11,7 +11,7 @@ Esse foi apenas um projeto que eu capturei do youtube para praticar. Consiste em
 </p>
 <br>
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpeg" width="100%">
+  <img alt="projeto moonlight" src=".github/preview.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
